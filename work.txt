@@ -4,4 +4,4 @@ and right now i don' know how to use SSH -key on this computer
 
 it's my SSH
 
-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
+i have deletes SSH 
