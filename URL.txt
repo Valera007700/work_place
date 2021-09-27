@@ -1,0 +1,2 @@
+http://itcareer.pythonanywhere.com/  --- форма доя теста
+https://itteam-tea-web.atlassian.net/jira/software/projects/TEA/boards/1 --- джира для заданий
