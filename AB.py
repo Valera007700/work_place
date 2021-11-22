@@ -1,7 +1,3 @@
-import time
-a, b = 0, 1
-while a < 1000:
-    print(a)
-    a, b = b, a+b
-    time.sleep(1);
-
+a = 17
+b = True if a > 10 else False
+print(b)
