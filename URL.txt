@@ -1,7 +1,7 @@
 http://itcareer.pythonanywhere.com/  --- форма доя теста
 https://itteam-tea-web.atlassian.net/jira/software/projects/TEA/boards/1 --- джира для заданий
 
-SQL От Select till GroupBy зучать селекты
+SQL От Select till GroupBy изучать селекты
 
 
 https://do2.vsmu.by/pluginfile.php/94408/mod_resource/content/0/%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D1%80%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%86%D0%B8%D0%B8%20%D0%BF%D0%BE%20%D0%BA%D0%B0%D1%80%D0%B4%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8%202015%20%D0%B3%D0%BE%D0%B4%D0%B0.pdf
