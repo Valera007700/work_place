@@ -1,6 +1,6 @@
-a = 0
-b = 1
-while a < 10:
+a, b = 0, 1
+while a < 1000:
     print(a)
     a, b = b, a+b
+    timesleep(500)
 
